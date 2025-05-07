@@ -1,2 +1,3 @@
 # SENAI
- Exercícios feitos em aula
+## Exercícios feitos em aula
+### Exercício correto
